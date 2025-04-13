@@ -3,6 +3,8 @@ YearProgressBot
 
 \\\ YearProgressBot /// written in Bash, for Telegram.
 
+▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 52%
+
 Deployment
 ----------
 
